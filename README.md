@@ -6,4 +6,4 @@ The website for SwiftGen's home page and documentation
 
 This repository also hosts the SwiftGen logo:
 
-![SwiftGen Logo](logo/eve-swift-2c.png)
+![SwiftGen Logo](logo/logo-256.png)
